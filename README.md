@@ -18,7 +18,13 @@
 - Observe the FFT analysis of source current and source voltage different values of firing angle.
 
 ## Theoretical Calculations
-- RMS load voltage for R load
+- RMS load voltage for R load<br />
 ![image](https://user-images.githubusercontent.com/86883449/226312550-f0e2c941-57fc-43c8-8aa2-34a776c5b88c.png)
-- RMS load voltage for R-L load
+- RMS load voltage for R-L load<br />
 ![image](https://user-images.githubusercontent.com/86883449/226312627-dc3410c8-2b63-4f1c-aca2-5622c15a7b51.png)
+
+## Observed Graph
+- For RL load:<br />
+![image](https://user-images.githubusercontent.com/86883449/226313429-22689f37-29a8-49f5-baa0-54f88189fb9a.png)
+- For R load:<br />
+![image](https://user-images.githubusercontent.com/86883449/226313689-98dbcc5b-8d82-4d76-8158-318e6ba844a9.png)
