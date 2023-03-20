@@ -3,6 +3,9 @@
 - To observe the load voltage and voltage across the SCR waveforms of a single-phase ac voltage controller, supplying (a) R load (b) R L load
 - Compute Vrms in each case and compare it with observed value.
 - To observe the power quality parameters in MATLAB/Simulink.
+## Circuit Diagram
+![image](https://user-images.githubusercontent.com/86883449/226311106-b60a56fa-dc4b-4c28-a041-a72fad3c1b64.png)
+
 ## Procedure
 - Connect the circuit diagram as shown in Figure 4.1 with resistive load (100Ω, 5A).
 -  Auto transformer is adjusted for about 100 V.
