@@ -16,3 +16,9 @@
 - Figure 4.1 is developed in MATLAB/SIMULINK software.
 - Observe the waveforms of source voltage, source current, output voltage and output current.
 - Observe the FFT analysis of source current and source voltage different values of firing angle.
+
+## Theoretical Calculations
+- RMS load voltage for R load
+![image](https://user-images.githubusercontent.com/86883449/226312550-f0e2c941-57fc-43c8-8aa2-34a776c5b88c.png)
+- RMS load voltage for R-L load
+![image](https://user-images.githubusercontent.com/86883449/226312627-dc3410c8-2b63-4f1c-aca2-5622c15a7b51.png)
